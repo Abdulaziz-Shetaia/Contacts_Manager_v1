@@ -1,13 +1,12 @@
 - Create shell script called (task.sh) which has the following behavior when you run the script it print main menu contains
 
 @@@@
-
-press i to add new contact
-press v to view all contacts
-press s to search for record
-press e to delete all contacts
-press d to delete one contact
-press q to exit
+- press i to add new contact
+- press v to view all contacts
+- press s to search for record
+- press e to delete all contacts
+- press d to delete one contact
+- press q to exit
 
 @@@@
 - when you press i it ask you to enter Fisrt name, Last name, Email and phone number after finishing ask you to return to main menu press m or q for exit then save entries in database.txt
