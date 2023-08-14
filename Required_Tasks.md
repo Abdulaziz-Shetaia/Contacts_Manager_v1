@@ -1,6 +1,7 @@
 - Create shell script called (task.sh) which has the following behavior when you run the script it print main menu contains
 
 @@@@
+
 press i to add new contact
 press v to view all contacts
 press s to search for record
